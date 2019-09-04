@@ -10,7 +10,7 @@ body, * + *{
     display: flex;
     height: 40px;
     border: 1px solid black;
-    flex-direction:  row;
+    flex-directio: row;
 
    
 }
