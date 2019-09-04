@@ -1,0 +1,42 @@
+body, * + *{
+    margin: 1em;
+    border: 1px solid black;
+
+}
+
+
+
+.head{
+    display: flex;
+    height: 40px;
+    border: 1px solid black;
+    flex-direction:  row;
+
+   
+}
+.main{
+    display: flex;
+    height: 150px;
+    border: 1px solid black;
+    flex-direction: row;
+}
+
+.derecha{
+
+    border: 1px solid black;
+    flex-direction: row;
+
+
+
+}
+.izquierda{
+    
+    border: 1px solid black;
+    flex-direction: row;
+}
+.pie{
+    display: flex;
+    height: 40px;
+    border: 1px solid black;
+    flex-direction: row;
+}
