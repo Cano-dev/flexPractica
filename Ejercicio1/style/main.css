@@ -18,3 +18,7 @@ html, body {
 .mid {
     margin: 1em 0em;
 }
+
+.top, .bot {
+    flex-basis: 20%;
+}
